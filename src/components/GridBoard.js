@@ -1,4 +1,3 @@
-import { useSelector } from "react-redux";
 import GridSquare from "./GridSquare";
 import { shapes } from "../utils";
 import React, { useEffect, useRef } from "react";
@@ -31,6 +30,11 @@ export default function GridBoard(props) {
     }
     lastUpdateTimeRef.current = time;
   };
+
+   useEffect(() => {
+     requestRef.current = requestAnimationFrame(update);
+     return () => cancelAnimationFrame(requestRef.current);
+   }, [isRunning]);
 
   // map rows
   const gridSquares = grid.map((rowArray, row) => {
