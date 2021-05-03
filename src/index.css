@@ -30,13 +30,13 @@ code {
   border-bottom-color: rgba(0, 0, 0, 0.5);
   /* Square Colors:  background colors for the squares.*/
   --color-0: #eaeaea;
-  --color-1: #ff6600;
-  --color-2: #eec900;
-  --color-3: #0000ff;
-  --color-4: #cc00ff;
-  --color-5: #00ff00;
-  --color-6: #66ccff;
-  --color-7: #ff0000;
+  --color-1: #ff1582;
+  --color-2: #21d2f1;
+  --color-3: #11df89;
+  --color-4: #a511ca;
+  --color-5: #fd8cd8;
+  --color-6: #ecdb43;
+  --color-7: #d439ae;
   /* Button Colors */
   -button-color-t: rgba(200, 200, 200, 1);
   -button-color-r: rgba(150, 150, 150, 1);
