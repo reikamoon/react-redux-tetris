@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-tetris/static/css/main.51c0b8f2.chunk.css",
+    "main.js": "/react-redux-tetris/static/js/main.bf7d78bf.chunk.js",
+    "main.js.map": "/react-redux-tetris/static/js/main.bf7d78bf.chunk.js.map",
+    "runtime-main.js": "/react-redux-tetris/static/js/runtime-main.06b103d8.js",
+    "runtime-main.js.map": "/react-redux-tetris/static/js/runtime-main.06b103d8.js.map",
+    "static/js/2.53ae89db.chunk.js": "/react-redux-tetris/static/js/2.53ae89db.chunk.js",
+    "static/js/2.53ae89db.chunk.js.map": "/react-redux-tetris/static/js/2.53ae89db.chunk.js.map",
+    "static/js/3.0200d681.chunk.js": "/react-redux-tetris/static/js/3.0200d681.chunk.js",
+    "static/js/3.0200d681.chunk.js.map": "/react-redux-tetris/static/js/3.0200d681.chunk.js.map",
+    "index.html": "/react-redux-tetris/index.html",
+    "static/css/main.51c0b8f2.chunk.css.map": "/react-redux-tetris/static/css/main.51c0b8f2.chunk.css.map",
+    "static/js/2.53ae89db.chunk.js.LICENSE.txt": "/react-redux-tetris/static/js/2.53ae89db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b103d8.js",
+    "static/js/2.53ae89db.chunk.js",
+    "static/css/main.51c0b8f2.chunk.css",
+    "static/js/main.bf7d78bf.chunk.js"
+  ]
+}
