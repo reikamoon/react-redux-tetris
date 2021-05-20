@@ -1,3 +1,17 @@
+# React Tetris 
+by reikamoon :ribbon:
+
+Tetris game created with react and redux. 
+
+# Live Link
+https://github.com/reikamoon/react-redux-tetris
+
+<img src="ScreenshotTetris.png">
+
+# Controls
+Use the buttons to move the game piece. You can rotate the piece with the rotate button.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
